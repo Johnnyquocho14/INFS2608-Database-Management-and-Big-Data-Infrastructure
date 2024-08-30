@@ -3,11 +3,14 @@
 Project: INFS 2608 assignment (Johnny Ho, 2023 T1)
 
 ## Built with …
-•	Python (Pandas, NumPy, Scikit-learn, and Matplotlib)
+•	SQL 
 
-•	Jupiter notebook
+•	Miro
 
-•	Excel  
+•	Excel
+
+•	Power BI 
+
 
 ## File Dictionary 
 •	ERD diagram.png: ERD diagram for WPH private hospital 
